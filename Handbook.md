@@ -15,7 +15,7 @@ This document outlines the general best pratices you must follow during the deve
 ### 1.2 Purpose of this Handbook
 This Employee Handbook is designed to provide you with information about working
 conditions and practices you must follow.
-You will learn about Task estimation in scrum process. The coding standars you must follow to help your co-workings understanding your code.
+You will learn about Task estimation in scrum process and the coding standards you must follow to help your co-workers understand your code.
 The last part is about code reviews, you must keep in touch with your co-workers work.
 The information contained in this Handbook applies to all our employees. Following
 the policies described in this Handbook is considered a condition of continued
