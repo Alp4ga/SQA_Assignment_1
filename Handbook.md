@@ -27,7 +27,15 @@ environment.
 ## Task estimation in scrum
 
 __Links:__
+* https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.
+* https://en.wikipedia.org/wiki/Coding_conventions
+* https://www.geeksforgeeks.org/coding-standards-and-guidelines/
+* https://isocpp.org/wiki/faq/coding-standards
+* https://www.aversan.com/coding-standards-and-best-practices-2/
 ### 2.1 Topics introduction
+
+Coding standards are collections of coding rules, guidelines, and best practices. Using the right one will help you write cleaner code.
+
 ### 2.2 Important guidelines
 (Write in bullet points)
 ### 2.3 Topics
