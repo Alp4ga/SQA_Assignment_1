@@ -34,7 +34,8 @@ __Links:__
 * https://www.aversan.com/coding-standards-and-best-practices-2/
 ### 2.1 Topics introduction
 
-Coding standards are collections of coding rules, guidelines, and best practices. Using the right one will help you write cleaner code.
+Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language. Using the right one will help you write cleaner code.
+Without the coding conventions, every individual in a team will settle their coding styles. It will not be easy to maintain and debug the code in the near future.
 
 ### 2.2 Important guidelines
 (Write in bullet points)
