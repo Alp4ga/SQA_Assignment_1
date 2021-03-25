@@ -29,7 +29,6 @@ environment.
 __Links:__
 ### 2.1 Topics introduction
 ### 2.2 Important guidelines
-(Write in bullet points)
 ### 2.3 Topics
 (Note that it's just as important to highlight bad practices to avoid as good practices to follow. Each section should also contain links to the reference articles for further reading.)
 
@@ -38,9 +37,27 @@ __Links:__
 __Links:__
 ### 3.1 Topics introduction
 ### 3.2 Important guidelines
-(Write in bullet points)
+* Easy team integration
+* Increased code quality efficiency and easy for maintaining
+* Reduce code complexity
+* Reduce development cost
+
+* Naming Convention
+* File and folder Naming and Organization
+* Formatiting and Indentation
+* Commenting and Documenting
+* Classes and Functions
+* Testing
 ### 3.3 Topics
-(Note that it's just as important to highlight bad practices to avoid as good practices to follow. Each section should also contain links to the reference articles for further reading.)
+The developer's world has too much coding standards. It is important in a software development to select the better one. This coding standards depends of the language used i.e. in C++ you will not use the same coding standard than if the language will be in Java or in PHP. It will also depend of the company. You will have three best options, the easiest option is to follow a coding standards which already exists, another way will be to follow a coding standards and make small change because it does not feat with your company rules. The last option will be to create your own coding standards.
+
+The most difficults for a developeur is to follow or work with another developer who does not use the same coding standards. During the development you must create new folders and files. It is really important to use the same named and structured format to lose less time as possible when you are looking for an specific file. i.e an asset like a picture or a font.
+Read code from someone else can be hard when the nameming conventions is not the same. For exemple all class names must be in PascalCase and the variables must be in camelCase. If you use a opposed standards convention for the nameming the other person could not understand really fast what your code is suppose to do. Our team will lose time and the development cost will be increased.
+When you working in team on the same project an really important part is the testing. Two co-working could be working on the same features and without testing the other co-worker could broke your part without knowing what he is doing. The testing has this role to inssure no one is broking your work with additional code.
+All developeurs do not have the same abilities or the same competencies. It's really important to commenting and documenting. It will make it easy for the other co-working to understand what is appening in your class, your function or your package. Without commenting the developer has to read and understant the all concept to work with it. Again it will increase the time so the development cost.
+The identation is also really important to increase the readability of the code. A bad identation will render code reaaly hard to follow.
+
+There is no bad coding standards, the important his to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to assure the good work of the software develpment. 
 
 ## Code reviews
 
