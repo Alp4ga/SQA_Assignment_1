@@ -27,16 +27,7 @@ environment.
 ## Task estimation in scrum
 
 __Links:__
-* https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.
-* https://en.wikipedia.org/wiki/Coding_conventions
-* https://www.geeksforgeeks.org/coding-standards-and-guidelines/
-* https://isocpp.org/wiki/faq/coding-standards
-* https://www.aversan.com/coding-standards-and-best-practices-2/
 ### 2.1 Topics introduction
-
-Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language. Using the right one will help you write cleaner code.
-Without the coding conventions, every individual in a team will settle their coding styles. It will not be easy to maintain and debug the code in the near future.
-
 ### 2.2 Important guidelines
 (Write in bullet points)
 ### 2.3 Topics
@@ -45,7 +36,15 @@ Without the coding conventions, every individual in a team will settle their cod
 ## Coding standards
 
 __Links:__
+* [Medium](https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
+* [Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Geeksforgeeks](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)
+* [isocpp](https://isocpp.org/wiki/faq/coding-standards)
+* [aversan](https://www.aversan.com/coding-standards-and-best-practices-2/)
 ### 3.1 Topics introduction
+Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language. Using the right one will help you write cleaner code.
+Without the coding conventions, every individual in a team will settle their coding styles. It will not be easy to maintain and debug the code in the near future.
+
 ### 3.2 Important guidelines
 (Write in bullet points)
 ### 3.3 Topics
