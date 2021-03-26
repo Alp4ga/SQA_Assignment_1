@@ -28,6 +28,13 @@ environment.
 
 __Links:__
 ### 2.1 Topics introduction
+<<<<<<< HEAD
+=======
+
+Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language. Using the right one will help you write cleaner code.
+Without coding conventions, every individual in a team would settle their coding styles. It would not be easy to maintain and debug the code in the near future.
+
+>>>>>>> 6725552c7d5506926056f6197442111369c0a738
 ### 2.2 Important guidelines
 (Write in bullet points)
 ### 2.3 Topics
