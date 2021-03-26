@@ -36,6 +36,15 @@ There are lots of differents systems out there, some use points, other system di
 You will find yourself in the situation of estimating a task you never done before, so you'll have to take in consideration the learning time and possibles issues you will encounter during the development phases.
 Since you cannot just pick a skill and multiply it by the amount of times it is required and then sell it to your boss or your client, you have to find a way to estimate every task and minimizing the margin of error.
 
+The idea is that the more time you spend on the estimation, the more accurate it will be. But then, if you spend too much time on it, then it will be more expensive than a poorly accurate estimation. We have to find the right balance on time estimation, practice is the key here.
+When it comes to the technic and how to foresee the time estimation, it pretty much always come down to experience.
+First solution is to use your own experience, try to keep track of the time spent on similar tasks so you can use this data to be the most accurate possible in the future.
+In the case of a new technology, or a new technology stack, don't take the risk, take time to identify the problems and study them correctly, doing a POC could also be a solution.
+Another way to solve this problem, or a way to be more accurate, is to ask an expert or a colleague, so he will be able to help you and comment on your decisions.
+Every feedback is good to hear during this phase of the planning.
+
+// TODO: talk about the tools used to keep track of the task and the time management (Kanban board, Time management tool, etc... (((GitLab, Trello, Jira))))
+
 
 ## Coding standards
 
