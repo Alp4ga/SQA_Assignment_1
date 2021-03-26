@@ -28,8 +28,10 @@ environment.
 
 __Links:__
 ### 2.1 Topics introduction
+Task estimation is a very crucial subject, especially if you're working in sprints, following the AGILE Scrum method. The scrum master will plan the differents issues and tasks for the sprint, he needs an estimation of every tasks so he can assign people on these, splitting them fairly and efficiently across team members. Time estimating, as important it is, is also a very uncertain science, you only know the right answer once the task is finished, but then it's too late because this information is worth only if we have it during the planning phase. We will discuss the do's and dont's of task estimating.
 ### 2.2 Important guidelines
-(Write in bullet points)
+- Use your experience
+- Ask validation from senior team members
 ### 2.3 Topics
 (Note that it's just as important to highlight bad practices to avoid as good practices to follow. Each section should also contain links to the reference articles for further reading.)
 
