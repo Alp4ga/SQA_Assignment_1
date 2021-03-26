@@ -44,7 +44,7 @@ __Links:__
 
 * Naming Convention
 * File and folder Naming and Organization
-* Formatiting and Indentation
+* Formatting and Indentation
 * Commenting and Documenting
 * Classes and Functions
 * Testing
