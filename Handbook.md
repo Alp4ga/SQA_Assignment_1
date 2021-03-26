@@ -57,7 +57,7 @@ When you are working in team on the same project an important part is the testin
 All developers do not have the same abilities or the same skills. It is important to comment and document. It will make it easy for the other co-workers to understand what is happening in your class, your function or your package. Without comments, the developer must read and understand the whole concept to work with it. Again, it will increase the time so the development cost.
 The identation is also important to increase the readability of the code. A bad identation will render code reaaly hard to follow.
 
-There are no bad coding standards, the important his to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to assure the good work of the software develpment.
+There are no bad coding standards, the important is to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to insure the good work of the software develpment.
 
 ## Code reviews
 
