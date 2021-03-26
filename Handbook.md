@@ -31,7 +31,11 @@ __Links:__
 ### 2.2 Important guidelines
 (Write in bullet points)
 ### 2.3 Topics
-(Note that it's just as important to highlight bad practices to avoid as good practices to follow. Each section should also contain links to the reference articles for further reading.)
+One of the hardest question you could ask to a developer would probably be "how much time do you need to complete the following task ?".
+There are lots of differents systems out there, some use points, other system directly use time units as a man-days.
+You will find yourself in the situation of estimating a task you never done before, so you'll have to take in consideration the learning time and possibles issues you will encounter during the development phases.
+Since you cannot just pick a skill and multiply it by the amount of times it is required and then sell it to your boss or your client, you have to find a way to estimate every task and minimizing the margin of error.
+
 
 ## Coding standards
 
