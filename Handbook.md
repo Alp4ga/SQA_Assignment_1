@@ -48,6 +48,7 @@ __Links:__
 * Commenting and Documenting
 * Classes and Functions
 * Testing
+* Code Linters
 ### 3.3 Topics
 The developer's world has too much coding standards. It is important in a software development to select the better one. This coding standards depends on the language used i.e., in C++ you will not use the same coding standard than if the language will be in Java or in PHP. It will also depend on the company. You will have three best options, the easiest option is to follow a coding standard which already exists, another way will be to follow a coding standard and make small change because it does not feat with your company rules. The last option will be to create your own coding standards.
 
@@ -56,6 +57,7 @@ Read code from someone else can be hard when the naming conventions is not the s
 When you are working in team on the same project an important part is the testing. Two co-workers could be working on the same feature and without testing the other co-worker could break your part without knowing what he is doing. The testing has this role to insure no one broke your work with additional code.
 All developers do not have the same abilities or the same skills. It is important to comment and document. It will make it easy for the other co-workers to understand what is happening in your class, your function or your package. Without comments, the developer must read and understand the whole concept to work with it. Again, it will increase the time so the development cost.
 The indentation is also important to increase the code readability. A bad indentation will make the code really hard to understand.
+The last important point on Coding Standards is to use tools to help you to increse your code quality. There we are talking about Code Linters; It is a tool which analyze your source code looking for problems. It will fewer errors in production, it will make readable, maintainable, and more consistent code. With this tool you will avoid syntax errors which is the most basic and more vital type of checks that a linter can provide.
 
 There are no bad coding standards, the important is to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to insure the good work of the software develpment.
 
