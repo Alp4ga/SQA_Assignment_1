@@ -55,7 +55,7 @@ The most difficults for a developer is to follow or work with another developer 
 Read code from someone else can be hard when the naming conventions is not the same. For exemple all class names must be in PascalCase and the variables must be in camelCase. If you use an opposed standards convention for the naming the other person could not understand really fast what your code is supposed to do. Our team will lose time and the development cost will be increased.
 When you are working in team on the same project an important part is the testing. Two co-working could be working on the same features and without testing the other co-worker could broke your part without knowing what he is doing. The testing has this role to inssure no one is broking your work with additional code.
 All developers do not have the same abilities or the same skills. It is important to comment and document. It will make it easy for the other co-workers to understand what is happening in your class, your function or your package. Without comments, the developer must read and understand the whole concept to work with it. Again, it will increase the time so the development cost.
-The identation is also important to increase the readability of the code. A bad identation will render code reaaly hard to follow.
+The indentation is also important to increase the code readability. A bad indentation will make the code really hard to understand.
 
 There are no bad coding standards, the important is to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to insure the good work of the software develpment.
 
