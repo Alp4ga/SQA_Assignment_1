@@ -49,7 +49,7 @@ Very different solutions exist in this regard, from simple Kanban board tools to
 The use of Kanban board can be very helpful when it comes to plan the different issues and sort them by relevance and priority.
 But it lacks a real time management module and make the presentation of the data very hard to overview for the manager.
 That's why other complex solutions are available for bigger project.
-If you're project is simple, and doesn't need a long-time support, a simple Kanban board as Trello of the board in GitLab tool is enough.
+If your project is simple, and does not need a long-time support, a simple Kanban board as Trello of the board in GitLab tool is enough.
 On the other hand, if your solution needs a better overview of the multiple tasks and have also a crucial need of support in the long run, more complex tools as Jira should be considered.
 
 ## Coding standards
