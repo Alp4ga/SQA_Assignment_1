@@ -48,7 +48,7 @@ When your tasks are estimated, you will have to write it down and save it so eve
 Very different solutions exist in this regard, from simple Kanban board tools to a very complex cluster of various tools in order to have a complete overview of the task, the time estimation, the progress and the different unforeseen issues that the support service will give as feedback for us.
 The use of Kanban board can be very helpful when it comes to plan the different issues and sort them by relevance and priority.
 But it lacks a real time management module and make the presentation of the data very hard to overview for the manager.
-That's why other complex solutions are available for bigger project.
+That's why other complex solutions are available for bigger projects.
 If your project is simple, and does not need a long-time support, a simple Kanban board as Trello of the board in GitLab tool is enough.
 On the other hand, if your solution needs a better overview of the multiple tasks and have also a crucial need of support in the long run, more complex tools as Jira should be considered.
 
