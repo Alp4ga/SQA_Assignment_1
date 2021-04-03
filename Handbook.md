@@ -59,7 +59,7 @@ All developers does not have the same abilities or the same skills. It is import
 The indentation is also important to increase the code readability. A bad indentation will make the code really hard to understand.
 The last important point on Coding Standards is to use tools to help you to increse your code quality. There we are talking about Code Linters; It is a tool which analyze your source code looking for problems. It will fewer errors in production, it will make readable, maintainable, and more consistent code. With this tool you will avoid syntax errors which is the most basic and more vital type of checks that a linter can provide.
 
-There are no bad coding standards, the important is to follow the same coding standards for the all software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to insure the good work of the software develpment.
+There are no bad coding standards, the important is to follow the same coding standards during all the software development. The coding standard must be defined at the start of the development. Everyone who is working on the project must also follow this coding standard to insure the good work of the software development.
 
 ## Code reviews
 
