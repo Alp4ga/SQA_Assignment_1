@@ -42,7 +42,7 @@ First solution is to use your own experience, try to keep track of the time spen
 In the case of a new technology, or a new technology stack, don't take the risk, take time to identify the problems and study them correctly, doing a POC could also be a solution.
 Another way to solve this problem, or a way to be more accurate, is to ask an expert or a colleague, so he will be able to help you and comment on your decisions.
 Every feedback is good to hear during this phase of the planning.
-It will help you find an smart solution and estimate your time accurately.
+It will help you find a smart solution and estimate your time accurately.
 
 When your tasks are estimated, you will have to write it down and save it so everybody in the team will be able to have the same information about this matter.
 Very differents solutions exist in this regard, it ranges from simple Kanban board tools to a very complex cluster of various tools in order to have a complete overview of the task, the time estimation, the progress and the differents unforeseen issues that the support service will give as feedback for us.
