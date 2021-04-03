@@ -91,6 +91,12 @@ There are no bad coding standards, the important is to follow the same coding st
 ## Code reviews
 
 __Links:__
+* [Definition - GeeksForGeeks](https://www.geeksforgeeks.org/secure-code-review-assessment/)
+* [How To - ItNext](https://itnext.io/performing-a-code-review-1297967683f6)
+* [Best Practices - Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
+* [Mindset - Medium](https://medium.engineering/the-code-review-mindset-3280a4af0a89)
+* [Experience from Google - FullStory](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
+
 ### 4.1 Topics introduction
 ### 4.2 Important guidelines
 (Write in bullet points)
