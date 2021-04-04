@@ -141,11 +141,10 @@ Also keep in mind that if a discussed item is regularly raised, it should be con
 The code review should not be performed at any time, it remains usefull only if it remains time efficient. This is therefore very important to request it only after the code has been commented, and tested, unless you want your lecturer to lose his time, and his sanity. Imagine it like an interview, you would only present yourself well dressed and prepared. This creates a kind of peer pressure, which will make you pay more attention on your work, consequently enhancing its quality.
 Even if you fear it, the review must not be dismissed, everyone has to pass through them; even an experienced developer can fails, the difference between a good or a bad one only resids on its capacity to iterate when it does.
 
-Documentation is the key to quick understanding, so don't hesitate to comment some lines, someting that is 
+Documentation is the key to quick understanding, so don't hesitate to comment some lines, even something that seems obvious to you may not be clear to your colleagues.
 
 #### What ?
-Not only your code should be reviewed, but also tests, you may for example have forgotten to test a feature that your code should fullfill or a special case that may make it crash.
-Documentation either, as you
+Not only your code should be reviewed, but also tests, you may for example have forgotten to test a feature that your code should fullfill or a special case that may make it crash. Same goes for documentation, it is the greater source of maintanibility, botched, it might ruin it all.
 
 #### Who ?
 The review concerns the writter and at least one another programer, it is not required that this be a superior. Technically, even an unexperimented person can spot a difference between your task specifications and what you produced.
