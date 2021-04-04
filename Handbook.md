@@ -123,7 +123,7 @@ Finally, catching an error as soon as possible is deadly time and cost efficient
 #### How ?
 The review should not be used as a way to ask for help about issue, it is only a process of validation, not of progression, unless issues are revealed and fixes are requested, possibly with suggestions given by the lecturer, which then reconduct to another code review.
 
-As a lecturer, above all, remain benevolent, the author of the code may not be experimented and will not learn by being mocked. Also, don't hesitate to ask questions when you find something strange. Explain clearly what may cause a problem and highlight the involved lines. This is also the best moment to teach good practices, like clearer or more efficient ways of coding.
+As a lecturer, above all, remain benevolent, the author of the code may not be experimented and will not learn by being mocked. Also, do not hesitate to ask questions when you find something strange. Explain clearly what may cause a problem and highlight the involved lines. This is also the best moment to teach good practices, like clearer or more efficient ways of coding.
 
 As a requester, make a clear request resuming what your code should realise, avoid at all cost commmits or comments like "Fixes", explain what you do. Your lecturer have to know before reading what he will dig into, and remain open minded, this is not a critic of your work but a valorisation of it.
 
@@ -142,6 +142,6 @@ Documentation either, as you
 #### Who ?
 The review concerns the writter and at least one another programer, it is not required that this be a superior. Technically, even an unexperimented person can spot a difference between your task specifications and what you produced.
 
-To conclude, don't forget that the first lecturer should be yourself.
+To conclude, do not forget that the first lecturer should be yourself.
 
 <img src="https://miro.medium.com/max/1020/1*uDyb9W5jE0sVDHjPkG_o7w.png" align="left" width="500"> A situation to avoid, both parties must rely on the other one, but never lean on the fact his work will be done by someone else.
