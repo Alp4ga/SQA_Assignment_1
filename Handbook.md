@@ -68,7 +68,6 @@ Without coding conventions, every individual in a team would settle their own co
 * Increased code quality efficiency and easy for maintaining
 * Reduce code complexity
 * Reduce development cost
-
 * Naming Convention
 * File and folder Naming and Organization
 * Formatting and Indentation
@@ -96,9 +95,53 @@ __Links:__
 * [Best Practices - Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
 * [Mindset - Medium](https://medium.engineering/the-code-review-mindset-3280a4af0a89)
 * [Experience from Google - FullStory](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
+* [Efficient code review - Rahul Nath](https://www.rahulpnath.com/blog/code-review/)
 
 ### 4.1 Topics introduction
+Code review is a systematic peer review of software source code and is similar to the process that takes place in a reading committee, the objective being to find bugs or potential vulnerabilities or to correct design errors prior to the software release, thus improving its quality, maintainability and security.
+
 ### 4.2 Important guidelines
-(Write in bullet points)
+* Code maintanibility
+* Bugs & security threats prevention
+* Collaboration & team cohesion
+* Documentation
+* Knowledge sharing
+* Refactoring
+* Accountability
+* Time saving
+
 ### 4.3 Topics
-(Note that it's just as important to highlight bad practices to avoid as good practices to follow. Each section should also contain links to the reference articles for further reading.)
+
+#### Why ?
+Even if simple errors like syntax or careless mistakes are catched by linters and unit or integration tests, some can pass through the vigilence of automated tools. It has been revealed that more than half of the errors are spotted by code reviews [source](http://www.ifsq.org/finding-ia-2.html).
+Also, this is not because a code complete its purpose that it means it is good : performance and security must also be verified.
+
+The experience of peers, whether it be on the language used, the project itself or its environment is then used in this process, not only to catch the error, but to share the knowledge, the developer will learn from him : its mentoring. Furthermore, it widdens the overall understanding of the project and facilitates future collaborations.
+
+Finally, catching an error as soon as possible is deadly time and cost efficient, as the fix cost exponentially raises depending on the delay between the release and the reveal of the defect. Fixing it later could lead in more errors, as an abyssal technical debt.
+
+#### How ?
+The review should not be used as a way to ask for help about issue, it is only a process of validation, not of progression, unless issues are revealed and fixes are requested, possibly with suggestions given by the lecturer, which then reconduct to another code review.
+
+As a lecturer, above all, remain benevolent, the author of the code may not be experimented and will not learn by being mocked. Also, don't hesitate to ask questions when you find something strange. Explain clearly what may cause a problem and highlight the involved lines. This is also the best moment to teach good practices, like clearer or more efficient ways of coding.
+
+As a requester, make a clear request resuming what your code should realise, avoid at all cost commmits or comments like "Fixes", explain what you do. Your lecturer have to know before reading what he will dig into, and remain open minded, this is not a critic of your work but a valorisation of it.
+
+Also keep in mind that if a discussed item is regularly raised, it should be considered to update the guidelines or create a best practice file to avoid it, especially for newcommers.
+
+#### When & how long ?
+The code review should not be performed at any time, it remains usefull only if it remains time efficient. This is therefore very important to request it only after the code has been commented, and tested, unless you want your lecturer to lose his time, and his sanity. Imagine it like an interview, you would only present yourself well dressed and prepared. This creates a kind of peer pressure, which will make you pay more attention on your work, consequently enhancing its quality.
+Even if you fear it, the review must not be dismissed, everyone has to pass through them; even an experienced developer can fails, the difference between a good or a bad one only resids on its capacity to iterate when it does.
+
+Documentation is the key to quick understanding, so don't hesitate to comment some lines, someting that is 
+
+#### What ?
+Not only your code should be reviewed, but also tests, you may for example have forgotten to test a feature that your code should fullfill or a special case that may make it crash.
+Documentation either, as you
+
+#### Who ?
+The review concerns the writter and at least one another programer, it is not required that this be a superior. Technically, even an unexperimented person can spot a difference between your task specifications and what you produced.
+
+To conclude, don't forget that the first lecturer should be yourself.
+
+<img src="https://miro.medium.com/max/1020/1*uDyb9W5jE0sVDHjPkG_o7w.png" align="left" width="500"> A situation to avoid, both parties must rely on the other one, but never lean on the fact his work will be done by someone else.
