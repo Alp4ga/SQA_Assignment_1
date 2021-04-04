@@ -27,8 +27,16 @@ environment.
 ## Task estimation in scrum
 
 __Links:__
+- [Tactical Project Manager - Estimating efforts hours in projects](https://www.tacticalprojectmanager.com/estimating-effort-hours-in-projects)
+- [GitConnected - Learn task estimation secrets](https://levelup.gitconnected.com/learn-task-estimation-secrets-644e8cbca89e)
+- [Team Gantt - How to estimate projects](https://www.teamgantt.com/guide-to-project-management/how-to-estimate-projects)
+- [Jeremy Phelps - Simple guide to software task estimation](https://jeremyphelps.com/blog/simple-guide-to-software-task-estimation.html)
+- [Mindtools - Estimating time accurately](https://www.mindtools.com/pages/article/newPPM_01.htm)
 ### 2.1 Topics introduction
+Task estimation is a very crucial subject, especially if you're working in sprints, following the AGILE Scrum method. The scrum master will plan the differents issues and tasks for the sprint, he needs an estimation of every tasks so he can assign people on these, splitting them fairly and efficiently across team members. Time estimating, as important it is, is also a very uncertain science, you only know the right answer once the task is finished, but then it's too late because this information is worth only if we have it during the planning phase. We will discuss the do's and dont's of task estimating.
 ### 2.2 Important guidelines
+- Use your experience
+- Ask validation from senior team members
 ### 2.3 Topics
 One of the hardest question you could ask to a developer would probably be "how much time do you need to complete the following task ?".
 There are lots of differents systems out there, some use points, other system directly use time units as a man-days.
